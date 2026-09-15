@@ -1,0 +1,1 @@
+O cliente deste repositório é a Clínica Sorriso, uma clínica odontológica. O objetivo do sistema é organizar os agendamentos e consultas dos pacientes, facilitando o controle dos horários e evitando conflitos na agenda.
